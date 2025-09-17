@@ -1,0 +1,64 @@
+.box{
+    font-size: 60px;
+    width: 90px;
+    height: 90px;
+    flex-grow: 1;
+}
+
+.box1 {
+    background-color: black;
+    color: white;
+}
+
+.box2 {
+    background-color: black;
+    color: white;
+}
+
+.box3 {
+    background-color: black;
+    color: white;
+}
+
+.box4 {
+    background-color: black;
+    color: white;
+}
+
+.box5 {
+    background-color: black;
+    color: white;
+}
+
+.box6 {
+    background-color: black;
+    color: white;
+}
+
+.box7 {
+    background-color: black;
+    color: white;
+}
+
+.box8 {
+    background-color: black;
+    color: white;
+}
+
+.box9 {
+    background-color: black;
+    color: white;
+}
+
+.box10 {
+    background-color: black;
+    color: white;
+}
+
+.container {
+    display: flex;
+    border: solid 10px blue;
+    height: 100vh;
+    align-items: center;
+    flex-direction: column;
+}
